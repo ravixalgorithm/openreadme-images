@@ -1,1 +1,1 @@
-This folder contains generated profile images for OpenReadme
+# Profile Images\n\nGenerated profile images are stored here.
